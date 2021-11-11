@@ -1,6 +1,6 @@
 import {configureStore} from '@reduxjs/toolkit';
 import carReducer from "../features/car/carSlice"
-// smth here
+// smth heredsdf
 
 export default configureStore({
     reducer:{
